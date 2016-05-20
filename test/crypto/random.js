@@ -1,7 +1,7 @@
 'use strict';
 
-var bitcore = require('../..');
-var Random = bitcore.crypto.Random;
+var digicore = require('../..');
+var Random = digicore.crypto.Random;
 
 describe('Random', function() {
 

@@ -1,20 +1,21 @@
 {
-  "name": "bitcore-lib",
-  "main": "./bitcore-lib.min.js",
+  "name": "digicore-lib",
+  "main": "./digicore-lib.min.js",
   "version": "0.13.15",
-  "homepage": "http://bitcore.io",
+  "homepage": "http://digibyte.co",
   "authors": [
-    "BitPay, Inc."
+    "BitPay, Inc.",
+    "DigiByte"
   ],
   "description": "A pure, powerful core for your bitcoin project.",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "bitcoin",
-    "bitcore",
-    "btc",
-    "satoshi"
+    "digibyte",
+    "digicore",
+    "dgb",
+    "bitcoin"
   ],
   "license": "MIT",
   "ignore": [

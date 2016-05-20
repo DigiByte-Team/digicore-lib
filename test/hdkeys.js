@@ -13,10 +13,10 @@
 var _ = require('lodash');
 var should = require('chai').should();
 var expect = require('chai').expect;
-var bitcore = require('..');
-var Networks = bitcore.Networks;
-var HDPrivateKey = bitcore.HDPrivateKey;
-var HDPublicKey = bitcore.HDPublicKey;
+var digicore = require('..');
+var Networks = digicore.Networks;
+var HDPrivateKey = digicore.HDPrivateKey;
+var HDPublicKey = digicore.HDPublicKey;
 
 describe('HDKeys building with static methods', function() {
   var classes = [HDPublicKey, HDPrivateKey];

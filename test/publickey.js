@@ -3,13 +3,13 @@
 var should = require('chai').should();
 var expect = require('chai').expect;
 
-var bitcore = require('..');
-var Point = bitcore.crypto.Point;
-var BN = bitcore.crypto.BN;
-var PublicKey = bitcore.PublicKey;
-var PrivateKey = bitcore.PrivateKey;
-var Address = bitcore.Address;
-var Networks = bitcore.Networks;
+var digicore = require('..');
+var Point = digicore.crypto.Point;
+var BN = digicore.crypto.BN;
+var PublicKey = digicore.PublicKey;
+var PrivateKey = digicore.PrivateKey;
+var Address = digicore.Address;
+var Networks = digicore.Networks;
 
 /* jshint maxlen: 200 */
 

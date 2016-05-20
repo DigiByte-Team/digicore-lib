@@ -1,7 +1,7 @@
 {
-  "name": "bitcore-lib",
+  "name": "digicore-lib",
   "version": "0.13.15",
-  "description": "A pure and powerful JavaScript Bitcoin library.",
+  "description": "A pure and powerful JavaScript DigiByte library.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -57,7 +57,7 @@
     }
   ],
   "keywords": [
-    "bitcoin",
+    "digibyte",
     "transaction",
     "address",
     "p2p",
@@ -74,7 +74,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-lib.git"
+    "url": "https://github.com/digibyte-team/digicore-lib.git"
   },
   "browser": {
     "request": "browser-request"
@@ -89,7 +89,7 @@
     "sha512": "=0.0.1"
   },
   "devDependencies": {
-    "bitcore-build": "bitpay/bitcore-build",
+    "digicore-build": "digibyte-team/digicore-build",
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.8.10",
